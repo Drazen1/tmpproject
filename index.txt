@@ -1,3 +1,5 @@
 
 Text added from FEATURE_2 branch.
 Some random text.
+New text 1
+New text 2
